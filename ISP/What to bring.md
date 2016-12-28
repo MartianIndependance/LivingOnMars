@@ -11,3 +11,5 @@
 
 * DHCP server (IPv6?)
 * DNS server setup with new .mars TLD
+
+*to figure out; can we setup Voip services to be used with mobile phones?*
