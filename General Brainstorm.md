@@ -9,6 +9,7 @@ So let's think about how to kickstart a colony in our current lifetime.
 * It takes 3-12 minutes for data to travel and the data rate will be low (think max 250kbps)
 * Mars' rotation (and other line of sight issues) can prevent communication to go through to Earth
 
+## Gov
 The distance between Earth and Mars just makes it unrealistic to have Mars human activity to be handled by Earth. There has to be an independent governing of Mars activities by Mars inhabitants. (Of course this doesn't have to be an actual government, they just have to make sure responsibility to create a self sustaining colony is clear and organized)
 
 ## Money
